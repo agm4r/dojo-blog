@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Cara mencegah corona",
+      "body": "Lorem Ipsum",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "title": "10 Tips Jago Coding",
+      "body": "Lorem Ipsum ...",
+      "author": "Agmar Putra",
+      "id": 2
+    }
+  ]
+}
